@@ -45,3 +45,4 @@ while datetime.datetime.now().hour <= start_time[-1][0]+1 and i < len(start_time
         print("Meeting No. {} has started".format(i+1))
         time.sleep(60)
         i += 1
+    time.sleep(10)
