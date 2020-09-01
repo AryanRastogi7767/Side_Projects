@@ -11,8 +11,11 @@ An automation script in python for automatically joining online classes using cl
  
 #### HOW TO RUN THE PROGRAM:
 
-* Open the zoom_automation.bat in notepad and set the paths
-  * First Path - "Path to where python.exe is located"
+* Right-click on the zoom_automation.bat file and open it with notepad.
+* Set the paths of python.exe and main.py in the batch file.
+  * First Path - "Path to where python.exe is located":
+        * Search "python.exe" in your system and open file location. 
+        * Copy the path of the file in the batch file opened in the notepad.
   * Second Path - "Path to where the main.py is located"
 
 * Run the `zoom_automation.bat` to run the batch file
